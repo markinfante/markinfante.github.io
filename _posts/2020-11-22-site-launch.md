@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mark Infante, Learning Entusiast... Finally Does It"
+title: "Mark Infante, Learning Enthusiast... Finally Does It"
 date: 2020-11-22
 ---
 
